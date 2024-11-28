@@ -99,17 +99,17 @@
 - 接口源：
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
+https://ghproxy.net/raw.githubusercontent.com/zwho-9527/IPTV/refs/heads/master/output/user_result.m3u
 ```
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
+https://ghproxy.net/raw.githubusercontent.com/zwho-9527/IPTV/refs/heads/master/output/user_result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/source.json
+https://ghproxy.net/raw.githubusercontent.com/zwho-9527/IPTV/refs/heads/master/source.json
 ```
 
 ## ⚙️ 配置
